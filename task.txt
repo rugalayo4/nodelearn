@@ -1,0 +1,3 @@
+sansakr vai ko lagi tasks
+1.Navigation  Bar banaune :
+         required things: home , about ,contact us , resposniveness for both mobile and larger screen
