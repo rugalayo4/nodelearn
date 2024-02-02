@@ -4,31 +4,21 @@
     line-height: 1;
     height: 100%;
     margin: 10px;
-    padding: 10px;
+    padding: 0px;
+    background-color: aquamarine;
   }
-  header {
+  header a{
     padding: 20px;
     background-color: red;
-    color: black;
+    color: white;
     cursor: pointer;
     float: left;
-   }
-   #btn{
-    color: black;
-    margin-right: 30px;
     text-decoration: none;
-   
-
    }
-  a:hover {
-    background-color:white; 
-    
-   }
-   @media screen and (max-width: 600px) {
+    a:hover {
+    background-color:gray; 
+     } 
+    @media screen and (max-width: 500px) {
     #nave a:not(:first-child) {display: none;}
-    #nave a.icon {
-      float: right;
-      display: block;
-    }
-  }
+     }
   
