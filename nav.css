@@ -25,6 +25,9 @@
 .icon{
   color: white;
 }
+
+ 
+ 
 @media screen and (max-width: 600px) {
   .nav a {display: none;}
   .nav a.icon {

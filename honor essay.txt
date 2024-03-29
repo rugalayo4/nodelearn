@@ -1,0 +1,26 @@
+      "Breaking the Code: Lessons Learned in High School Web Project"
+                       
+
+As a computer science student, I encountered a challange during my high school
+year when I was doing project on web development using HTML, CSS, Javascript, 
+and PHP.
+
+The project was to built an usable, user-friendly webpage for an IT company
+but not for official purpose. It was a very hard task. At first, I underestimated
+that task but as i go deeper into the project, i realized the complexity that
+is in the projrct. It was very hard task but we need to overcome that problem
+and complete the task as soon as possible.
+
+Thinking about the problem deeply, I made a plan and started to work on it. 
+I started breaking down the problem into small problems. I gave more hours
+researching the project and asked guidance from my high school teachers. 
+I experimented different methods to find out the most efficient solution.
+Although it was very hard for me to achieve my goal but i dont giveup on 
+my goals and finally after some days of hardwork i was successful complete 
+my project. 
+
+This experience taught me valuable lesson. I learned that success in computer science
+requires patience, determination, and a willingness to  overcome challenges.
+It also taught the importance of collaboration and seeking help when needed.
+Overall, this experience helped me alot about understanding field of computer science
+mainly in web development.  

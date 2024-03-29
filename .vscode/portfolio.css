@@ -1,0 +1,39 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+header {
+    
+    
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+.nav-links li a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+.nav-links li a:hover {
+    color: green; 
+}
+.section{
+    
+    padding: 5px;
+
+}
