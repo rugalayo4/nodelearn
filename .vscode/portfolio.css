@@ -2,11 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: content-box;
+    background-color: bisque;
 }
-header {
-    
-    
-}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -27,13 +25,17 @@ header {
     color: black;
     text-decoration: none;
     font-size: 16px;
-    transition: color 0.3s ease;
+    
 }
 .nav-links li a:hover {
-    color: green; 
+    color: rgba(47, 161, 161, 0.582); 
 }
 .section{
     
     padding: 5px;
+
+}
+.container-3{
+    display:;
 
 }
